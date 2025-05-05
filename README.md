@@ -24,7 +24,7 @@ Sou um entusiasta de tecnologia e programação
 ---
 
 <p align="center">
-  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+ <img ![hippo](https://tenor.com/pt-PT/view/elysian-thumbs-up-cat-my-guy-frfr-gif-18249450920940964675) />
 </p>
 
 ---
