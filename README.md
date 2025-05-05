@@ -5,7 +5,6 @@ Sou um entusiasta de tecnologia e programação
 - 💻 Experiência em python
 - 🔐 Interesso-me por **java** **front-end** e **C#**
 - 📚 Uso este repositório para compartilhar materiais, projetos e experiências com a comunidade.
-- 
 ---
 
 ## 📊 GitHub Stats
@@ -25,7 +24,7 @@ Sou um entusiasta de tecnologia e programação
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d1285ea5-983e-405e-a17e-53673b2a3041" alt="Imagem centralizada" />
+  <img src="https://tenor.com/pt-PT/view/elysian-thumbs-up-cat-my-guy-frfr-gif-18249450920940964675" alt="Imagem centralizada" />
 </p>
 
 ---
