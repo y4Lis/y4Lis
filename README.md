@@ -24,7 +24,6 @@ Sou um entusiasta de tecnologia e programação
 ---
 
 <p align="center">
- <img src="![hippo](https://tenor.com/pt-PT/view/elysian-thumbs-up-cat-my-guy-frfr-gif-18249450920940964675)" />
-</p>
-
+  
+ <img src="https://media1.tenor.com/m/_UMS7ECci0MAAAAd/elysian-thumbs-up-cat.gif" width="833" height="767.7650602409639" alt="a cat is giving a thumbs up sign while laying on the floor" style="max-width: 833px;" fetchpriority="high">
 ---
